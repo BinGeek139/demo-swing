@@ -61,4 +61,6 @@ public class UUIDUtils {
 	public static String bytesToUUIDString(byte[] bytes) {
 		return bytesToUUID(bytes).toString();
 	}
+	public string (){
+		gsdlfs;p
 }
