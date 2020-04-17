@@ -1,0 +1,8 @@
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/common/UUIDUtils.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/control/StudentControler.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/model/dao/DemoMVCDao.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/control/AddStudentController.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/model/dao/AbtractDemoMVCDao.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/model/entiy/Student.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/model/dao/impl/StudentDao.java
+/home/bingeek/eclipse-ws/demo-springmvc/src/main/java/com/tas/springmvc/demo/model/entiy/StudentWapper.java
